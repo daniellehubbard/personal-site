@@ -1,7 +1,7 @@
 basic_settings:
   site_title: Danielle's Life
   site_tagline: Traveling, cooking and eating all the things
-  favicon_image: /images/favicon.png
+  favicon_image: 
 
 header_settings:
   logo_image: 
