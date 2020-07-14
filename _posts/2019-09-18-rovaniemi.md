@@ -1,7 +1,7 @@
 ---
 title: 'Rovaniemi, Finland'
 date: 2019-09-18
-featured_image: '/images/cologne/gluwine.png'
+featured_image: '/images/rovaniemi/reindeer3.png'
 excerpt: The first trip we took after moving to Europe was to Finland to try to see the Northern Lights. 
 ---
 
