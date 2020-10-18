@@ -2,7 +2,8 @@
 title: 'Germany & Austria Road Trip '
 date: 2020-07-16
 featured_image: '/images/roadtrip/innsbruck5.png'
-excerpt: For our two year wedding anniversary we decided to take a road trip to southern Germany and into Austria. 
+excerpt: For our two year wedding anniversary we decided to take a road trip to southern Germany and into Austria.
+vimeoId: 446211616 
 ---
 
 ![](/images/roadtrip/badersee5.png)
@@ -70,7 +71,7 @@ Salzburg had an app where you could purchase a bus ticket, and their bus system 
 
 We accidentally found this place on our last trip to Salzburg as we were headed back down from the castle. We did not go see the castle again this time as we'd already seen it but we both remembered loving this beer garden. The weather was not the nicest (maybe 65F outside) so the beer garden up top was completely empty and it has lovely views of the city. We were more than happy to enjoy this beautiful beer garden all by ourselves. We both also love Stiegl beer which makes this place even better!
 
-{% include vimeoPlayer.html id=446211616 %}
+{% include vimeoPlayer.html id=page.vimeoId %}
 
 ##### Urbankeller 
 
