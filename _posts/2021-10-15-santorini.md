@@ -8,7 +8,7 @@ excerpt: Santorini has been high on my bucket list for a long time. Sometimes wh
 
 Santorini has been high on my bucket list for a long time. Sometimes when you dream of a place forever it doesn't quite live up to your imagination - that was NOT the case with Santorini! It was magical. Everything was so beautiful and the food was so delicious! 
 
-We went in mid October which is not tourist season, so nothing was crowded and it was quite nice. The temperature was mostly quite nice - a little chilly at night but pretty nice during the day in jeans. It did storm a bit on and off but we didn't really mind that! 
+We went in mid October which is not tourist season, so nothing was crowded which we really enjoyed. The temperature was mostly pretty nice - a little chilly at night but pretty nice during the day in jeans. It did storm a bit on and off but we didn't really mind that! It was a nice excuse to take breaks and we ended up having a very relaxing weekend.
 
 ![](/images/santorini/hotel1.png)
 
@@ -24,12 +24,17 @@ We ended up choosing a hotel called Absolute Bliss. We booked a room with a priv
 
 Our flight left Amsterdam at 5:30 AM so we opted to stay at the airport in a hotel so we could ensure we got there on time for all the COVID checks and difficulties of traveling right now. By the time we got to Santorini we were quite tired! We checked into our hotel and then walked towards Fira for breakfast. 
 
+![](/images/santorini/views.png)
+
+![](/images/santorini/views2.png)
+
 #### To Briki
 
-Our flight to Santorini was SO EARLY and when we landed we were pretty hungry. We picked a spot for breakfast and headed out. I got a Greek coffee, which turns out to be coffee that is boiled instead of steeped with very fine grounds. It also came with a little bowl of some sort of...raisin? dates? Our waiter was not very interested in explaining to me and I wasn't able to figure out what this was for online. It was not my favorite thing but it was fun to try something new! We both got omelettes which were very tasty and came with a small salad with lots of feta. Have I mentioned that I love feta? 
+Our flight to Santorini was SO EARLY and when we landed we were pretty hungry. We picked a spot for breakfast and headed out. I got a Greek coffee, which turns out to be coffee that is boiled instead of steeped with very fine grounds. It also came with a little bowl of some sort of...raisins? dates? Our waiter was not very interested in explaining to me and I wasn't able to figure out what this was for online. It was not my favorite thing but it was fun to try something new! We both got omelettes which were very tasty and came with a small salad with lots of feta. Have I mentioned that I love feta? 
 
 ![](/images/santorini/coffee.png)
 
+After breakfast we relaxed on our hotel balcony and took a nice nap. I could sit on the balcony looking at the caldera all day!
 
 #### The Wine Bar
 
