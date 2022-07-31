@@ -8,7 +8,7 @@ excerpt: It took us 3 tries and almost 3 years to go to Copenhagen and it was so
 
 ![](/images/copenhagen/nyhavn.png)
 
-It took us 3 tries and almost 3 years to go to Copenhagen and it was so worth the wait! We had originally booked a trip in September 2019 but we cancelled it because we were moving to Copenhagen. Then we tried again in June 2020 and that got cancelled for obvious reasons. Finally we made it in June 2022! The city is so beautiful and we had so much fun. 
+It took us 3 tries and almost 3 years to go to Copenhagen and it was so worth the wait! We had originally booked a trip in September 2019 but we cancelled it because we were moving to Amsterdam. Then we tried again in June 2020 and that got cancelled for obvious reasons. Finally we made it in June 2022! The city is so beautiful and we had so much fun. 
 
 ### Day 1
 
