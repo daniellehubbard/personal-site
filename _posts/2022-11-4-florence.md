@@ -1,13 +1,16 @@
 ---
 title: 'Florence, Italy'
 date: 2022-11-04
-featured_image: '/images/sevilla/sangria.png'
-excerpt: 
+featured_image: '/images/florence/riverview.png'
+excerpt: Florence was an absolute dream, as Italy always is.
 
 ---
 
+Florence was an absolute dream, as Italy always is. It was a little chilly but nice and sunny. We ate so much good food and saw so much beauty while we were there. This was my Christmas present from Austin and it was a great time! 
 
 ![](/images/florence/riverview.png)
+
+![](/images/florence/cathedral.png)
 
 
 ### Day 1 
