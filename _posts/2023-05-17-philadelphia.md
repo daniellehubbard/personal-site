@@ -1,7 +1,7 @@
 ---
 title: 'Philadelphia, PA, USA'
 date: 2023-05-17
-featured_image: '/images/edinburgh/street1.png'
+featured_image: '/images/philly/bike.png'
 excerpt: In May I took a whirlwind trip to visit my best friend in Philadelphia and see her new home.
 
 ---
