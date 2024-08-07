@@ -32,7 +32,7 @@ For our first night we had dinner at Trattoria dal Billy. They are well known fo
 <figcaption style="text-align: center;">Restaurant view</figcaption>
 
 
-### Day 7
+### Day 2
 
 #### Nessun Dorma Officina 231
 
@@ -91,7 +91,7 @@ We finished up our night with dinner at this beautiful focacceria, where you eat
 
 ![](/images/manarola/focaccia4.png)
 
-### Day 8
+### Day 3
 
 #### Nessun Dorma Pesto class 
 
@@ -175,7 +175,7 @@ We wrapped up the night on our beautiful balcony enjoying the view!
 
 ![](/images/manarola/balcony.png)
 
-### Day 9
+### Day 4
 
 #### Cappun Magru
 
@@ -260,7 +260,7 @@ After some rest and a nap, we went down to the water to watch the sunset. There'
 After our sunset we grabbed some pasta from Takeaway Pasta which was downstairs from our hotel. We ate it on our balcony and it was a nice relaxing end to the night! The pasta was pretty good but not anything super special. 
 
 
-### Day 10
+### Day 5
 
 #### Mae Caa 
 
@@ -324,7 +324,7 @@ We had to get our last gelato for the trip as well and then enjoyed a beautiful 
 
 ![](/images/manarola/gelato2.png)
 
-### Day 11
+### Day 6
 
 On our last morning I had one last coffee on our balcony to admire the view. When we left a cat ran into the hotel and we had to try to lure him out! The owner of the hotel finally had to help as the cat apparently lives nearby :) 
 
